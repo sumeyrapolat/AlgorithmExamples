@@ -1,0 +1,14 @@
+C:\Users\sumey\Source\repos\algorithmExamples\bin\Debug\net8.0\algorithmExamples.exe
+C:\Users\sumey\Source\repos\algorithmExamples\bin\Debug\net8.0\algorithmExamples.deps.json
+C:\Users\sumey\Source\repos\algorithmExamples\bin\Debug\net8.0\algorithmExamples.runtimeconfig.json
+C:\Users\sumey\Source\repos\algorithmExamples\bin\Debug\net8.0\algorithmExamples.dll
+C:\Users\sumey\Source\repos\algorithmExamples\bin\Debug\net8.0\algorithmExamples.pdb
+C:\Users\sumey\Source\repos\algorithmExamples\obj\Debug\net8.0\algorithmExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumey\Source\repos\algorithmExamples\obj\Debug\net8.0\algorithmExamples.AssemblyInfoInputs.cache
+C:\Users\sumey\Source\repos\algorithmExamples\obj\Debug\net8.0\algorithmExamples.AssemblyInfo.cs
+C:\Users\sumey\Source\repos\algorithmExamples\obj\Debug\net8.0\algorithmExamples.csproj.CoreCompileInputs.cache
+C:\Users\sumey\Source\repos\algorithmExamples\obj\Debug\net8.0\algorithmExamples.dll
+C:\Users\sumey\Source\repos\algorithmExamples\obj\Debug\net8.0\refint\algorithmExamples.dll
+C:\Users\sumey\Source\repos\algorithmExamples\obj\Debug\net8.0\algorithmExamples.pdb
+C:\Users\sumey\Source\repos\algorithmExamples\obj\Debug\net8.0\algorithmExamples.genruntimeconfig.cache
+C:\Users\sumey\Source\repos\algorithmExamples\obj\Debug\net8.0\ref\algorithmExamples.dll
